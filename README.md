@@ -21,7 +21,7 @@ Test different model with Training and Testing :
   4.Random Forest with the GridSearchCV
   
 In my recommendation, 
-  
+![The KNN model with the GridSearchCV](https://user-images.githubusercontent.com/109550293/193681750-449c2be2-b630-4f7d-8efb-994f3fb9e553.png)
 - The KNN with the GridSearchCV model will be the best because there has less errors when I compared with other confusion matrixes. 
   
 - Confusion matrix for the KNN with the GridSearchCV shows 56 errors in the total, but other confusion matrix shows more error than KNN with the GridSearchCV. 
