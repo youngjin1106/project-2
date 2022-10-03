@@ -32,5 +32,8 @@ In my recommendation,
 
 ![The KNN model with the GridSearchCV](https://user-images.githubusercontent.com/109550293/193691424-f6389212-b2eb-49e9-a577-b2b52b862358.png)
 
+Rcommendation for the Bank: 
+These are cases in which we predicted that there has a lot of Churn Customers. I will recommend to find new customers as many as you can since there has a lot of Churn Customers in the bank.
+
 
 
