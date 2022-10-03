@@ -7,6 +7,7 @@ The task is to predict whether a bank customer will 'churn' or close their accou
 For the Churn vs Balance plot, it tells that Customer Churn has more average balance than who does not Customer Churn. This might be affected to the bank if they close their accounts. Therefore, the bank need to find a way to hold those Customer Churn.
 
 For the Churn vs Age plot, it tells that the average age of the Customer Chun is higher than the average age of the Customer Chun. I think some people close the account when they are approximately 40. Therefore, the bank need to focus on making new customers.
+![Churn vs Balance and Churn vs Age](https://user-images.githubusercontent.com/109550293/193681443-5ae5934c-9bba-487e-8d1e-a26a288427e7.png)
 
 
 Test different model with Training and Testing :
