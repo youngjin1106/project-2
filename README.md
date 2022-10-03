@@ -1,6 +1,6 @@
 # project-2
 
-The dataset of this project is for the Bank Customer Churn Prediction 
+[The dataset of this project is for the Bank Customer Churn Prediction](https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset) 
 
 The task is to predict whether a bank customer will 'churn' or close their account. I think there has strong correlation between the target and the columns of Balance and Age
 
