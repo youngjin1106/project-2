@@ -1,5 +1,7 @@
 # project-2
 
+# The Bank Customer Churn Prediction
+
 [The dataset of this project is for the Bank Customer Churn Prediction](https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset) 
 
 The task is to predict whether a bank customer will 'churn' or close their account. I think there has strong correlation between the target and the columns of Balance and Age
@@ -21,10 +23,11 @@ Test different model with Training and Testing :
   4.Random Forest with the GridSearchCV
   
 In my recommendation, 
-![The KNN model with the GridSearchCV](https://user-images.githubusercontent.com/109550293/193681750-449c2be2-b630-4f7d-8efb-994f3fb9e553.png)
+
 - The KNN with the GridSearchCV model will be the best because there has less errors when I compared with other confusion matrixes. 
   
 - Confusion matrix for the KNN with the GridSearchCV shows 56 errors in the total, but other confusion matrix shows more error than KNN with the GridSearchCV. 
 
 - True Negative is better than True Positive at predicting in the confusion matrix for the KNN with the GridSearchCV
 
+![The KNN model with the GridSearchCV](https://user-images.githubusercontent.com/109550293/193681750-449c2be2-b630-4f7d-8efb-994f3fb9e553.png)
